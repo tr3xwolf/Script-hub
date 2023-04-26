@@ -1,0 +1,11 @@
+if game.PlaceId == 12454097560 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Soul-Cultivation/main/source'))()
+--                            | 
+-- this one is Kaiju Universe V
+
+elseif game.PlaceId == 4110892437 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/expert-waffle/main/source'))()
+
+elseif game.PlaceId == 2629642516 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Bitcoin-Miner-Beta/main/source'))()
+end 
