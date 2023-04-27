@@ -8,6 +8,12 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/expert-waffl
 
 elseif game.PlaceId == 2629642516 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Bitcoin-Miner-Beta/main/source'))()
+    
+elseif game.PlaceId == 84251289540 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Bitcoin-Miner-Beta/main/source'))()
+    
+elseif game.PlaceId == 7009799230 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Bitcoin-Miner-Beta/main/source'))()
 end 
 
 local vu = game:GetService("VirtualUser")
