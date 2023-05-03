@@ -15,7 +15,7 @@ elseif game.PlaceId == 84251289540 then
 elseif game.PlaceId == 7009799230 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Pressure-Wash-Simulator/main/source'))()
     
-elseif game.PlaceId == 13314893398 then
+elseif game.PlaceId == 13332669454 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/tr3xwolf/Pokemon-Brick-Bronze/main/source'))()
 end 
 
